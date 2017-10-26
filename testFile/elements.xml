@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pages>
+	<page pagename="LoginPage">
+		<element name="number1">
+			<pathvalue>id=>com.android.calculator2:id/digit1</pathvalue>
+		</element>
+		<element name="number2">
+			<pathvalue>id=>com.android.calculator2:id/digit2</pathvalue>
+		</element>
+	</page>
+</pages>
